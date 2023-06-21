@@ -125,7 +125,7 @@ The dataset is a consolidated version of data from [www.sports-reference.com](ww
 
 4.  Athletes' Performance by Season (Summer vs. Winter) :
    
-    ![season](img/Performance by Season.png) 
+    ![season](img/Performance.png) 
 
    * Based on the analysis, it can be concluded that athletes tend to have a higher level of performance and dominance in the Summer Olympic Games compared to the Winter Olympic Games.
 
