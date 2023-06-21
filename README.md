@@ -130,7 +130,7 @@ The dataset is a consolidated version of data from [www.sports-reference.com](ww
    * Based on the analysis, it can be concluded that athletes tend to have a higher level of performance and dominance in the Summer Olympic Games compared to the Winter Olympic Games.
 
 For more : 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouaajb/Olympics-Data-Explorations/master?urlpath=lab)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouaajb/Olympics-Data-Explorations/blob/master/Olymdpics.ipynb)
 
 
 
