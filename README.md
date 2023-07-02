@@ -137,6 +137,10 @@ The dataset is a consolidated version of data from [www.sports-reference.com](ww
 For more : 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)
 
+<a target="_blank" href="https://colab.research.google.com/github/Raouajb/Olympics-Data-Explorations">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 
 
