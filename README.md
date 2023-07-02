@@ -17,7 +17,8 @@
   - [📊 **Visualize** :](#-visualize-)
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)
-<a target="_blank" href="https://colab.research.google.com/github/Raouajb/Olympics-Data-Explorations">
+
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1u_Wqoow9LLJwOaN3Gj_Yp2D6fxLGiqV8">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 # Dataset :
