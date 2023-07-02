@@ -16,7 +16,9 @@
   - [🔎 **Analyze** :](#-analyze-)
   - [📊 **Visualize** :](#-visualize-)
 
-
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)<a target="_blank" href="https://colab.research.google.com/github/Raouajb/Olympics-Data-Explorations">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 # Dataset :
 
 This is a historical dataset on the modern Olympic Games, covering the period from Athens 1896 to Rio 2016. It provides information on individual athletes competing in Olympic events and the medals they won (if any).
