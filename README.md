@@ -18,7 +18,7 @@
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)
 
-<a target="_blank" href="https://colab.research.google.com/drive/1cFJfMUvchVmp_p_bMbM9HBndjcjRS6LH">
+<a target="_blank" href="https://colab.research.google.com/drive/1kMj92vMCJTavVBxNhQNbLYODSViLBIr-#scrollTo=HTr56rHJ3JyU">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -137,7 +137,7 @@ The dataset is a consolidated version of data from [www.sports-reference.com](ww
 For more : <br>
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)
 
-<a target="_blank" href="hhttps://colab.research.google.com/drive/1cFJfMUvchVmp_p_bMbM9HBndjcjRS6LH">
+<a target="_blank" href="https://colab.research.google.com/drive/1kMj92vMCJTavVBxNhQNbLYODSViLBIr-#scrollTo=HTr56rHJ3JyU">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
